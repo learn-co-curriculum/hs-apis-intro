@@ -8,6 +8,7 @@ type: intro
 Welcome to the API final project module. In this module we'll learn about what APIs are and think about how to integrate them in to the work we've done so far.
 
 ### What is an API?
+.
 
 <img src="http://www.apiacademy.co/sites/default/files/Web-APIs-v5_0.png">
 
