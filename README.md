@@ -7,7 +7,7 @@ type: intro
 
 Welcome to the API final project module. In this module we'll learn about what APIs are and think about how to integrate them in to the work we've done so far.
 
-### What is an API?
+## What is an API?
 <img src="http://www.apiacademy.co/sites/default/files/Web-APIs-v5_0.png">
 
 API stands for "Application Programming Interface". In a nutshell, an API is a set of instructions that allows developers to change and control existing web applications. It's a way for the developers of existing applications to allow other people to get their data in a controlled way. For example, the facebook API has a specific function that allows developers to integrate posting to a facebook wall. The Twitter API has a function that allows developers to display all of a user's tweets.
