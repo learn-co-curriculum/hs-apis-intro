@@ -1,7 +1,4 @@
----
-tags: api, apis
-type: intro
----
+
 
 ## Intro to APIs
 
