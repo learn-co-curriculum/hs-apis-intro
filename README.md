@@ -20,3 +20,5 @@ See if you can identify the use of APIs next time you use the internet.
 [Here's a great Quora page on APIs for laypeople.](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
 
 [And here's an excellent explanation of API's from How Stuff Works](http://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing1.htm)
+
+<a href='https://learn.co/lessons/hs-apis-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
